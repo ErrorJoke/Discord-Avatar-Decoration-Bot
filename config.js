@@ -9,7 +9,7 @@ Copyright (c) 2024 Wick Studio
 */
 
 module.exports = {
-    guildId: "guild", // your server id
-    token: "token", // your bot token
+    guildId: "1208932787692900402", // your server id
+    token: "MTE5MTE3MzI4NDQ1NzM0OTIzMA.G-xbcC.DdGlGpcClRK7xyLY2YqxBSL3pd513G7VtUuDto", // your bot token
   };
   
